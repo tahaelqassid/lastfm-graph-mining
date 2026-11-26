@@ -1,0 +1,11 @@
+.venv/
+neo4j-data/
+data/*.dat
+data/*.csv
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
+*.log
+*.aux
+*.out
+*.toc

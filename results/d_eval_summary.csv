@@ -1,0 +1,4 @@
+strategy,users,Hit10,Recall10,avg_communities,share_outside_home
+PPR,400,0.625,0.139,2.432,0.568
+community-aware PPR,400,0.622,0.132,2.98,0.654
+popularity,400,0.418,0.077,2.088,0.815

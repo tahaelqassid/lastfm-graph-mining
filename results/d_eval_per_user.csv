@@ -1,0 +1,1201 @@
+user,strategy,hit,recall,communities,outside
+1490,popularity,False,0.0,2,1.0
+1490,PPR,True,0.3,4,0.8
+1490,community-aware PPR,True,0.3,4,0.8
+844,popularity,False,0.0,2,1.0
+844,PPR,True,0.1,3,0.9
+844,community-aware PPR,True,0.1,2,1.0
+1309,popularity,False,0.0,2,0.8
+1309,PPR,False,0.0,4,0.4
+1309,community-aware PPR,False,0.0,4,0.4
+701,popularity,True,1.0,2,0.4
+701,PPR,True,1.0,1,0.0
+701,community-aware PPR,True,1.0,3,0.3
+560,popularity,True,0.125,2,0.8
+560,PPR,True,0.25,4,0.4
+560,community-aware PPR,True,0.25,4,0.5
+1525,popularity,True,0.25,2,0.5
+1525,PPR,True,0.25,1,0.0
+1525,community-aware PPR,True,0.25,3,0.3
+855,popularity,False,0.0,2,0.8
+855,PPR,False,0.0,3,0.2
+855,community-aware PPR,False,0.0,4,0.4
+1262,popularity,True,0.25,2,1.0
+1262,PPR,True,0.25,1,1.0
+1262,community-aware PPR,True,0.25,1,1.0
+1588,popularity,False,0.0,2,1.0
+1588,PPR,False,0.0,1,1.0
+1588,community-aware PPR,False,0.0,2,1.0
+761,popularity,False,0.0,2,1.0
+761,PPR,True,0.2222222222222222,3,0.8
+761,community-aware PPR,True,0.2222222222222222,3,0.8
+1799,popularity,True,0.3333333333333333,2,0.4
+1799,PPR,True,0.3333333333333333,1,0.0
+1799,community-aware PPR,True,0.3333333333333333,3,0.3
+553,popularity,True,0.16666666666666666,2,0.4
+553,PPR,True,0.16666666666666666,1,0.0
+553,community-aware PPR,True,0.16666666666666666,3,0.3
+327,popularity,False,0.0,2,0.4
+327,PPR,False,0.0,1,0.0
+327,community-aware PPR,False,0.0,2,0.3
+1395,popularity,True,0.1111111111111111,2,0.8
+1395,PPR,True,0.1111111111111111,3,0.5
+1395,community-aware PPR,True,0.1111111111111111,4,0.6
+764,popularity,False,0.0,2,0.8
+764,PPR,False,0.0,4,0.6
+764,community-aware PPR,False,0.0,4,0.6
+43,popularity,False,0.0,1,1.0
+43,PPR,False,0.0,2,1.0
+43,community-aware PPR,False,0.0,2,1.0
+543,popularity,True,0.1111111111111111,2,0.9
+543,PPR,True,0.1111111111111111,2,0.8
+543,community-aware PPR,True,0.1111111111111111,4,0.9
+1857,popularity,False,0.0,2,1.0
+1857,PPR,False,0.0,3,0.9
+1857,community-aware PPR,False,0.0,3,0.9
+315,popularity,True,0.1,2,0.9
+315,PPR,True,0.1,2,0.9
+315,community-aware PPR,True,0.1,3,0.9
+913,popularity,True,0.1,2,0.9
+913,PPR,True,0.3,3,0.6
+913,community-aware PPR,True,0.2,4,0.6
+931,popularity,False,0.0,2,1.0
+931,PPR,True,0.1111111111111111,3,0.6
+931,community-aware PPR,True,0.1111111111111111,3,0.6
+1951,popularity,False,0.0,2,0.8
+1951,PPR,False,0.0,2,0.4
+1951,community-aware PPR,False,0.0,4,0.5
+1636,popularity,True,0.2,3,0.5
+1636,PPR,True,0.2,2,0.1
+1636,community-aware PPR,True,0.2,2,0.3
+1153,popularity,False,0.0,2,0.9
+1153,PPR,False,0.0,4,0.8
+1153,community-aware PPR,False,0.0,4,0.8
+1248,popularity,False,0.0,2,0.4
+1248,PPR,False,0.0,1,0.0
+1248,community-aware PPR,False,0.0,2,0.3
+231,popularity,True,0.2,2,0.5
+231,PPR,True,0.3,1,0.0
+231,community-aware PPR,True,0.3,3,0.3
+1743,popularity,True,0.1111111111111111,2,1.0
+1743,PPR,True,0.1111111111111111,3,0.7
+1743,community-aware PPR,True,0.1111111111111111,3,0.7
+999,popularity,True,0.1,2,1.0
+999,PPR,True,0.1,3,0.8
+999,community-aware PPR,True,0.1,4,0.9
+40,popularity,False,0.0,2,1.0
+40,PPR,False,0.0,2,0.3
+40,community-aware PPR,False,0.0,2,0.4
+1987,popularity,False,0.0,2,1.0
+1987,PPR,True,0.125,4,0.9
+1987,community-aware PPR,True,0.125,4,0.9
+1664,popularity,False,0.0,2,1.0
+1664,PPR,False,0.0,2,1.0
+1664,community-aware PPR,False,0.0,2,1.0
+397,popularity,True,0.1,2,1.0
+397,PPR,True,0.1,3,0.9
+397,community-aware PPR,True,0.1,3,0.9
+739,popularity,False,0.0,2,1.0
+739,PPR,False,0.0,2,1.0
+739,community-aware PPR,False,0.0,2,1.0
+606,popularity,False,0.0,2,0.9
+606,PPR,False,0.0,4,0.5
+606,community-aware PPR,False,0.0,4,0.5
+1069,popularity,True,0.1111111111111111,2,0.5
+1069,PPR,True,0.1111111111111111,2,0.1
+1069,community-aware PPR,True,0.1111111111111111,2,0.3
+890,popularity,False,0.0,2,1.0
+890,PPR,True,0.2,5,0.7
+890,community-aware PPR,True,0.2,5,0.7
+2080,popularity,False,0.0,2,1.0
+2080,PPR,False,0.0,4,0.8
+2080,community-aware PPR,False,0.0,4,0.8
+254,popularity,False,0.0,2,1.0
+254,PPR,True,0.1,3,0.8
+254,community-aware PPR,True,0.1,3,0.8
+1900,popularity,True,0.1,2,1.0
+1900,PPR,True,0.2,4,0.9
+1900,community-aware PPR,True,0.2,4,0.9
+13,popularity,True,0.3,2,0.4
+13,PPR,True,0.3,1,0.0
+13,community-aware PPR,True,0.3,2,0.3
+685,popularity,True,0.1,2,1.0
+685,PPR,True,0.1,3,0.9
+685,community-aware PPR,True,0.1,3,0.9
+1844,popularity,True,0.3,2,0.7
+1844,PPR,True,0.3,2,0.6
+1844,community-aware PPR,True,0.3,3,0.7
+178,popularity,False,0.0,2,1.0
+178,PPR,False,0.0,2,0.4
+178,community-aware PPR,False,0.0,2,0.4
+146,popularity,True,0.4,2,0.5
+146,PPR,True,0.6,1,0.0
+146,community-aware PPR,True,0.4,3,0.3
+1920,popularity,True,0.2,2,1.0
+1920,PPR,True,0.2,2,1.0
+1920,community-aware PPR,True,0.2,2,1.0
+2034,popularity,False,0.0,2,0.9
+2034,PPR,True,0.3,2,0.6
+2034,community-aware PPR,True,0.2,4,0.7
+477,popularity,True,0.4,2,0.5
+477,PPR,True,0.6,1,0.0
+477,community-aware PPR,True,0.5,2,0.3
+52,popularity,False,0.0,2,1.0
+52,PPR,False,0.0,3,0.9
+52,community-aware PPR,False,0.0,3,0.9
+1140,popularity,False,0.0,2,0.8
+1140,PPR,True,0.2222222222222222,4,0.3
+1140,community-aware PPR,True,0.2222222222222222,4,0.4
+492,popularity,False,0.0,2,0.8
+492,PPR,False,0.0,4,0.7
+492,community-aware PPR,False,0.0,4,0.7
+1831,popularity,False,0.0,1,1.0
+1831,PPR,False,0.0,4,0.9
+1831,community-aware PPR,False,0.0,4,0.9
+11,popularity,True,0.2,2,0.5
+11,PPR,True,0.3,1,0.0
+11,community-aware PPR,True,0.3,3,0.3
+406,popularity,False,0.0,2,1.0
+406,PPR,True,0.1111111111111111,2,0.3
+406,community-aware PPR,True,0.1111111111111111,3,0.4
+1590,popularity,True,0.1111111111111111,2,0.5
+1590,PPR,True,0.1111111111111111,1,0.0
+1590,community-aware PPR,True,0.1111111111111111,2,0.3
+1520,popularity,True,0.1,2,0.9
+1520,PPR,True,0.1,3,0.8
+1520,community-aware PPR,True,0.1,4,0.9
+1908,popularity,True,0.2,2,0.3
+1908,PPR,True,0.3,1,0.0
+1908,community-aware PPR,True,0.2,3,0.3
+1300,popularity,True,0.3,2,0.5
+1300,PPR,True,0.3,1,0.0
+1300,community-aware PPR,True,0.3,3,0.3
+632,popularity,True,0.3,4,0.7
+632,PPR,True,0.5,2,0.2
+632,community-aware PPR,True,0.5,2,0.3
+1301,popularity,True,0.1,2,0.4
+1301,PPR,True,0.2,1,0.0
+1301,community-aware PPR,True,0.1,2,0.3
+862,popularity,True,0.2,2,0.4
+862,PPR,True,0.2,1,0.0
+862,community-aware PPR,True,0.2,2,0.3
+826,popularity,True,0.3333333333333333,2,1.0
+826,PPR,True,0.3333333333333333,2,1.0
+826,community-aware PPR,True,0.3333333333333333,2,1.0
+86,popularity,True,0.1,2,1.0
+86,PPR,True,0.2,4,0.8
+86,community-aware PPR,True,0.2,4,0.8
+1935,popularity,False,0.0,2,1.0
+1935,PPR,False,0.0,2,1.0
+1935,community-aware PPR,False,0.0,2,1.0
+671,popularity,False,0.0,2,0.4
+671,PPR,False,0.0,1,0.0
+671,community-aware PPR,False,0.0,3,0.3
+1744,popularity,False,0.0,2,0.8
+1744,PPR,False,0.0,3,0.5
+1744,community-aware PPR,False,0.0,4,0.5
+1265,popularity,False,0.0,2,0.8
+1265,PPR,True,0.1111111111111111,4,0.4
+1265,community-aware PPR,True,0.1111111111111111,4,0.4
+785,popularity,False,0.0,2,0.8
+785,PPR,False,0.0,2,0.8
+785,community-aware PPR,False,0.0,4,0.9
+942,popularity,True,0.2,2,0.3
+942,PPR,True,0.2,1,0.0
+942,community-aware PPR,True,0.2,2,0.3
+893,popularity,False,0.0,2,1.0
+893,PPR,False,0.0,2,1.0
+893,community-aware PPR,False,0.0,2,1.0
+132,popularity,True,0.2,3,0.6
+132,PPR,True,0.4,2,0.1
+132,community-aware PPR,True,0.3,3,0.3
+1994,popularity,True,0.1111111111111111,2,0.7
+1994,PPR,True,0.2222222222222222,3,0.6
+1994,community-aware PPR,True,0.2222222222222222,3,0.6
+623,popularity,False,0.0,2,1.0
+623,PPR,True,0.1,4,0.6
+623,community-aware PPR,True,0.1,4,0.6
+87,popularity,False,0.0,2,0.5
+87,PPR,True,0.1111111111111111,1,0.0
+87,community-aware PPR,True,0.1111111111111111,3,0.3
+152,popularity,True,0.1,2,0.3
+152,PPR,True,0.2,2,0.1
+152,community-aware PPR,True,0.2,2,0.3
+2038,popularity,True,0.5,2,0.5
+2038,PPR,True,0.5,2,0.3
+2038,community-aware PPR,True,0.5,2,0.3
+1156,popularity,False,0.0,2,1.0
+1156,PPR,False,0.0,3,1.0
+1156,community-aware PPR,False,0.0,3,1.0
+1430,popularity,True,0.1,2,1.0
+1430,PPR,True,0.1,2,1.0
+1430,community-aware PPR,True,0.2,2,1.0
+541,popularity,False,0.0,2,1.0
+541,PPR,False,0.0,5,0.8
+541,community-aware PPR,False,0.0,5,0.8
+1633,popularity,True,0.1111111111111111,2,0.5
+1633,PPR,True,0.1111111111111111,2,0.1
+1633,community-aware PPR,True,0.1111111111111111,2,0.3
+270,popularity,False,0.0,2,0.8
+270,PPR,False,0.0,2,0.2
+270,community-aware PPR,False,0.0,4,0.4
+722,popularity,True,0.1,5,0.9
+722,PPR,True,0.4,2,0.2
+722,community-aware PPR,True,0.4,2,0.3
+994,popularity,True,0.2,2,1.0
+994,PPR,True,0.2,3,0.9
+994,community-aware PPR,True,0.2,3,0.9
+1779,popularity,False,0.0,2,1.0
+1779,PPR,False,0.0,2,0.4
+1779,community-aware PPR,False,0.0,2,0.4
+1405,popularity,False,0.0,2,0.8
+1405,PPR,False,0.0,2,0.1
+1405,community-aware PPR,False,0.0,4,0.4
+1330,popularity,False,0.0,2,1.0
+1330,PPR,False,0.0,4,1.0
+1330,community-aware PPR,False,0.0,4,1.0
+1552,popularity,False,0.0,2,0.3
+1552,PPR,False,0.0,1,0.0
+1552,community-aware PPR,False,0.0,3,0.3
+259,popularity,True,0.14285714285714285,2,1.0
+259,PPR,True,0.14285714285714285,4,1.0
+259,community-aware PPR,True,0.14285714285714285,4,1.0
+1085,popularity,False,0.0,2,0.8
+1085,PPR,False,0.0,3,0.2
+1085,community-aware PPR,False,0.0,4,0.4
+801,popularity,True,0.14285714285714285,2,1.0
+801,PPR,True,0.2857142857142857,2,1.0
+801,community-aware PPR,True,0.2857142857142857,2,1.0
+42,popularity,True,0.2222222222222222,2,0.8
+42,PPR,True,0.2222222222222222,2,0.8
+42,community-aware PPR,True,0.2222222222222222,3,0.8
+1174,popularity,False,0.0,2,1.0
+1174,PPR,True,0.25,2,0.2
+1174,community-aware PPR,True,0.25,2,0.3
+1256,popularity,False,0.0,2,1.0
+1256,PPR,True,0.125,3,1.0
+1256,community-aware PPR,True,0.125,3,1.0
+1574,popularity,False,0.0,2,1.0
+1574,PPR,True,0.1,2,1.0
+1574,community-aware PPR,True,0.1,2,1.0
+139,popularity,False,0.0,2,1.0
+139,PPR,False,0.0,3,1.0
+139,community-aware PPR,False,0.0,3,1.0
+1445,popularity,True,0.125,2,0.4
+1445,PPR,True,0.25,1,0.0
+1445,community-aware PPR,True,0.125,3,0.3
+1702,popularity,False,0.0,2,1.0
+1702,PPR,True,0.3,2,0.3
+1702,community-aware PPR,True,0.3,2,0.3
+1488,popularity,False,0.0,2,1.0
+1488,PPR,True,0.16666666666666666,2,0.4
+1488,community-aware PPR,True,0.16666666666666666,2,0.4
+1500,popularity,False,0.0,2,1.0
+1500,PPR,True,0.1111111111111111,3,0.8
+1500,community-aware PPR,True,0.1111111111111111,3,0.8
+1270,popularity,False,0.0,2,1.0
+1270,PPR,False,0.0,2,1.0
+1270,community-aware PPR,False,0.0,2,1.0
+602,popularity,False,0.0,2,1.0
+602,PPR,False,0.0,4,0.9
+602,community-aware PPR,False,0.0,4,0.9
+1385,popularity,True,0.1,2,0.4
+1385,PPR,True,0.3,1,0.0
+1385,community-aware PPR,True,0.3,3,0.3
+2081,popularity,False,0.0,2,0.8
+2081,PPR,False,0.0,3,0.6
+2081,community-aware PPR,False,0.0,4,0.6
+2022,popularity,True,0.2222222222222222,2,1.0
+2022,PPR,True,0.2222222222222222,2,1.0
+2022,community-aware PPR,True,0.2222222222222222,2,1.0
+636,popularity,True,0.3333333333333333,2,0.4
+636,PPR,True,0.16666666666666666,1,0.0
+636,community-aware PPR,True,0.3333333333333333,2,0.3
+620,popularity,True,0.4,2,0.4
+620,PPR,True,0.5,2,0.2
+620,community-aware PPR,True,0.4,2,0.3
+1362,popularity,False,0.0,2,1.0
+1362,PPR,False,0.0,4,0.8
+1362,community-aware PPR,False,0.0,4,0.8
+338,popularity,True,0.1111111111111111,2,1.0
+338,PPR,True,0.1111111111111111,3,1.0
+338,community-aware PPR,True,0.1111111111111111,3,1.0
+1640,popularity,False,0.0,2,1.0
+1640,PPR,True,0.2222222222222222,3,0.5
+1640,community-aware PPR,True,0.2222222222222222,3,0.5
+1736,popularity,True,0.1111111111111111,2,0.4
+1736,PPR,True,0.2222222222222222,2,0.1
+1736,community-aware PPR,True,0.2222222222222222,2,0.3
+1872,popularity,False,0.0,2,0.4
+1872,PPR,False,0.0,1,0.0
+1872,community-aware PPR,False,0.0,2,0.3
+194,popularity,False,0.0,2,0.8
+194,PPR,True,0.1111111111111111,3,0.4
+194,community-aware PPR,True,0.1111111111111111,3,0.5
+367,popularity,False,0.0,2,1.0
+367,PPR,False,0.0,2,1.0
+367,community-aware PPR,False,0.0,2,1.0
+1061,popularity,False,0.0,2,1.0
+1061,PPR,True,0.125,2,1.0
+1061,community-aware PPR,True,0.125,2,1.0
+1973,popularity,True,0.2,2,0.4
+1973,PPR,True,0.3,2,0.2
+1973,community-aware PPR,True,0.3,3,0.3
+1539,popularity,True,0.1,2,0.8
+1539,PPR,True,0.1,2,0.7
+1539,community-aware PPR,True,0.1,5,0.8
+726,popularity,False,0.0,2,1.0
+726,PPR,False,0.0,1,1.0
+726,community-aware PPR,False,0.0,2,1.0
+966,popularity,True,0.4,4,0.5
+966,PPR,True,0.4,1,0.0
+966,community-aware PPR,True,0.4,3,0.3
+1386,popularity,False,0.0,2,1.0
+1386,PPR,False,0.0,4,1.0
+1386,community-aware PPR,False,0.0,4,1.0
+830,popularity,True,0.3,3,0.6
+830,PPR,True,0.3,2,0.1
+830,community-aware PPR,True,0.3,2,0.3
+155,popularity,False,0.0,2,1.0
+155,PPR,False,0.0,4,0.9
+155,community-aware PPR,False,0.0,4,0.9
+832,popularity,True,0.1,2,1.0
+832,PPR,True,0.1,3,0.5
+832,community-aware PPR,True,0.1,3,0.5
+227,popularity,True,0.1,4,0.7
+227,PPR,True,0.4,1,0.0
+227,community-aware PPR,True,0.2,3,0.3
+318,popularity,True,0.2222222222222222,2,0.4
+318,PPR,True,0.4444444444444444,1,0.0
+318,community-aware PPR,True,0.2222222222222222,2,0.3
+520,popularity,False,0.0,2,1.0
+520,PPR,False,0.0,2,1.0
+520,community-aware PPR,False,0.0,2,1.0
+481,popularity,True,0.1,3,0.3
+481,PPR,True,0.1,2,0.1
+481,community-aware PPR,True,0.1,3,0.3
+1102,popularity,False,0.0,2,0.4
+1102,PPR,False,0.0,1,0.0
+1102,community-aware PPR,False,0.0,2,0.3
+1210,popularity,True,0.1,2,1.0
+1210,PPR,True,0.2,3,1.0
+1210,community-aware PPR,True,0.2,3,1.0
+527,popularity,True,0.2,2,0.4
+527,PPR,True,0.3,1,0.0
+527,community-aware PPR,True,0.3,2,0.3
+1453,popularity,False,0.0,4,0.7
+1453,PPR,True,0.2,1,0.0
+1453,community-aware PPR,True,0.1,3,0.3
+1802,popularity,False,0.0,2,1.0
+1802,PPR,False,0.0,2,1.0
+1802,community-aware PPR,False,0.0,2,1.0
+204,popularity,False,0.0,2,1.0
+204,PPR,False,0.0,3,0.7
+204,community-aware PPR,False,0.0,3,0.7
+1179,popularity,True,0.2,2,0.4
+1179,PPR,True,0.3,2,0.1
+1179,community-aware PPR,True,0.2,2,0.3
+873,popularity,True,0.4,2,0.5
+873,PPR,True,0.6,2,0.1
+873,community-aware PPR,True,0.5,2,0.3
+307,popularity,False,0.0,2,1.0
+307,PPR,False,0.0,4,0.8
+307,community-aware PPR,False,0.0,4,0.8
+660,popularity,False,0.0,2,1.0
+660,PPR,False,0.0,1,1.0
+660,community-aware PPR,False,0.0,2,1.0
+1821,popularity,True,0.2,5,0.8
+1821,PPR,True,0.5,2,0.1
+1821,community-aware PPR,True,0.5,3,0.3
+1378,popularity,False,0.0,2,0.8
+1378,PPR,False,0.0,3,0.3
+1378,community-aware PPR,False,0.0,3,0.4
+693,popularity,False,0.0,2,0.8
+693,PPR,False,0.0,2,0.6
+693,community-aware PPR,False,0.0,3,0.6
+1418,popularity,True,0.1,2,1.0
+1418,PPR,True,0.2,3,0.9
+1418,community-aware PPR,True,0.1,2,1.0
+1676,popularity,False,0.0,2,0.9
+1676,PPR,True,0.1111111111111111,4,0.5
+1676,community-aware PPR,True,0.1111111111111111,4,0.5
+299,popularity,False,0.0,2,0.7
+299,PPR,False,0.0,2,0.7
+299,community-aware PPR,False,0.0,4,0.7
+2000,popularity,False,0.0,2,0.4
+2000,PPR,False,0.0,1,0.0
+2000,community-aware PPR,False,0.0,3,0.3
+734,popularity,True,0.1,2,0.8
+734,PPR,True,0.1,2,0.5
+734,community-aware PPR,True,0.1,4,0.6
+473,popularity,True,0.125,2,0.4
+473,PPR,True,0.125,1,0.0
+473,community-aware PPR,True,0.125,2,0.3
+378,popularity,False,0.0,2,1.0
+378,PPR,False,0.0,2,1.0
+378,community-aware PPR,False,0.0,2,1.0
+1635,popularity,False,0.0,1,1.0
+1635,PPR,True,0.1,3,0.5
+1635,community-aware PPR,False,0.0,4,0.6
+1123,popularity,False,0.0,2,0.8
+1123,PPR,False,0.0,4,0.3
+1123,community-aware PPR,False,0.0,4,0.4
+474,popularity,True,0.16666666666666666,2,1.0
+474,PPR,True,0.16666666666666666,2,1.0
+474,community-aware PPR,True,0.16666666666666666,2,1.0
+1185,popularity,False,0.0,2,0.2
+1185,PPR,False,0.0,2,0.2
+1185,community-aware PPR,False,0.0,2,0.3
+1315,popularity,False,0.0,2,1.0
+1315,PPR,False,0.0,4,0.5
+1315,community-aware PPR,False,0.0,4,0.5
+153,popularity,False,0.0,2,1.0
+153,PPR,False,0.0,4,0.8
+153,community-aware PPR,False,0.0,4,0.8
+540,popularity,False,0.0,2,1.0
+540,PPR,True,0.3,3,0.9
+540,community-aware PPR,True,0.3,3,0.9
+1983,popularity,True,0.1,2,0.5
+1983,PPR,True,0.1,1,0.0
+1983,community-aware PPR,True,0.1,2,0.3
+1371,popularity,False,0.0,2,1.0
+1371,PPR,False,0.0,3,1.0
+1371,community-aware PPR,False,0.0,3,1.0
+1683,popularity,False,0.0,2,1.0
+1683,PPR,True,0.1,2,1.0
+1683,community-aware PPR,False,0.0,2,1.0
+760,popularity,False,0.0,2,1.0
+760,PPR,False,0.0,2,1.0
+760,community-aware PPR,False,0.0,3,1.0
+799,popularity,True,0.125,2,1.0
+799,PPR,True,0.125,4,0.9
+799,community-aware PPR,True,0.125,4,0.9
+933,popularity,False,0.0,2,0.8
+933,PPR,True,0.125,3,0.5
+933,community-aware PPR,True,0.125,3,0.6
+1542,popularity,False,0.0,2,1.0
+1542,PPR,True,0.2,4,0.8
+1542,community-aware PPR,True,0.2,4,0.8
+1160,popularity,False,0.0,2,1.0
+1160,PPR,False,0.0,3,0.8
+1160,community-aware PPR,False,0.0,3,0.8
+459,popularity,False,0.0,2,1.0
+459,PPR,True,0.2222222222222222,3,0.4
+459,community-aware PPR,True,0.2222222222222222,3,0.4
+1187,popularity,False,0.0,2,0.8
+1187,PPR,True,0.14285714285714285,4,0.3
+1187,community-aware PPR,True,0.14285714285714285,4,0.4
+324,popularity,False,0.0,2,1.0
+324,PPR,True,0.25,4,0.6
+324,community-aware PPR,True,0.25,4,0.6
+452,popularity,False,0.0,2,1.0
+452,PPR,True,0.25,3,0.7
+452,community-aware PPR,True,0.25,3,0.7
+20,popularity,False,0.0,2,1.0
+20,PPR,False,0.0,4,1.0
+20,community-aware PPR,False,0.0,4,1.0
+561,popularity,False,0.0,2,1.0
+561,PPR,False,0.0,1,1.0
+561,community-aware PPR,False,0.0,1,1.0
+1419,popularity,False,0.0,2,1.0
+1419,PPR,True,0.1,2,1.0
+1419,community-aware PPR,True,0.1,2,1.0
+297,popularity,False,0.0,2,0.8
+297,PPR,False,0.0,3,0.4
+297,community-aware PPR,False,0.0,4,0.4
+843,popularity,False,0.0,2,1.0
+843,PPR,True,0.125,3,1.0
+843,community-aware PPR,True,0.125,3,1.0
+1062,popularity,False,0.0,2,0.8
+1062,PPR,False,0.0,4,0.3
+1062,community-aware PPR,False,0.0,4,0.4
+655,popularity,True,0.14285714285714285,2,1.0
+655,PPR,True,0.14285714285714285,1,1.0
+655,community-aware PPR,True,0.14285714285714285,2,1.0
+159,popularity,False,0.0,2,0.3
+159,PPR,False,0.0,1,0.0
+159,community-aware PPR,False,0.0,2,0.3
+1663,popularity,True,0.5,2,0.4
+1663,PPR,True,0.5,1,0.0
+1663,community-aware PPR,True,0.5,3,0.3
+1086,popularity,False,0.0,2,1.0
+1086,PPR,False,0.0,2,1.0
+1086,community-aware PPR,False,0.0,2,1.0
+1881,popularity,False,0.0,2,0.3
+1881,PPR,False,0.0,1,0.0
+1881,community-aware PPR,True,0.1,3,0.3
+1375,popularity,False,0.0,2,1.0
+1375,PPR,False,0.0,3,1.0
+1375,community-aware PPR,False,0.0,3,1.0
+470,popularity,True,0.3,4,0.6
+470,PPR,True,0.4,2,0.1
+470,community-aware PPR,True,0.4,3,0.3
+1828,popularity,True,0.2,3,0.5
+1828,PPR,True,0.4,1,0.0
+1828,community-aware PPR,True,0.3,2,0.3
+1845,popularity,True,0.1,2,1.0
+1845,PPR,True,0.1,4,0.9
+1845,community-aware PPR,True,0.1,4,0.9
+1454,popularity,False,0.0,2,1.0
+1454,PPR,True,0.3,4,0.9
+1454,community-aware PPR,True,0.3,4,0.9
+1063,popularity,False,0.0,2,0.8
+1063,PPR,False,0.0,3,0.5
+1063,community-aware PPR,False,0.0,3,0.6
+141,popularity,True,0.2,2,1.0
+141,PPR,True,0.4,3,1.0
+141,community-aware PPR,True,0.4,3,1.0
+358,popularity,False,0.0,2,0.8
+358,PPR,False,0.0,4,0.5
+358,community-aware PPR,False,0.0,4,0.5
+228,popularity,False,0.0,2,1.0
+228,PPR,False,0.0,3,1.0
+228,community-aware PPR,False,0.0,3,1.0
+1302,popularity,False,0.0,1,1.0
+1302,PPR,False,0.0,2,0.8
+1302,community-aware PPR,False,0.0,4,0.8
+2097,popularity,False,0.0,2,0.8
+2097,PPR,True,0.1,3,0.4
+2097,community-aware PPR,True,0.1,4,0.4
+1885,popularity,False,0.0,2,0.8
+1885,PPR,False,0.0,4,0.3
+1885,community-aware PPR,False,0.0,4,0.4
+206,popularity,True,0.1,2,0.8
+206,PPR,True,0.2,3,0.5
+206,community-aware PPR,True,0.2,3,0.6
+207,popularity,True,0.1,2,0.3
+207,PPR,True,0.1,1,0.0
+207,community-aware PPR,True,0.1,2,0.3
+447,popularity,False,0.0,2,1.0
+447,PPR,True,0.125,3,1.0
+447,community-aware PPR,True,0.125,3,1.0
+718,popularity,False,0.0,2,0.8
+718,PPR,True,0.2,3,0.6
+718,community-aware PPR,True,0.2,3,0.6
+1995,popularity,False,0.0,2,1.0
+1995,PPR,False,0.0,2,1.0
+1995,community-aware PPR,False,0.0,2,1.0
+235,popularity,False,0.0,2,1.0
+235,PPR,False,0.0,3,0.5
+235,community-aware PPR,False,0.0,3,0.5
+609,popularity,True,0.1,4,0.5
+609,PPR,True,0.1,2,0.4
+609,community-aware PPR,True,0.1,2,0.4
+2003,popularity,False,0.0,2,1.0
+2003,PPR,False,0.0,3,1.0
+2003,community-aware PPR,False,0.0,3,1.0
+1136,popularity,True,0.2,2,0.4
+1136,PPR,True,0.3,1,0.0
+1136,community-aware PPR,True,0.3,2,0.3
+656,popularity,True,0.125,2,1.0
+656,PPR,True,0.125,4,0.9
+656,community-aware PPR,True,0.125,4,0.9
+1311,popularity,True,0.25,2,0.3
+1311,PPR,True,0.5,1,0.0
+1311,community-aware PPR,True,0.375,3,0.3
+1191,popularity,False,0.0,2,1.0
+1191,PPR,False,0.0,3,1.0
+1191,community-aware PPR,False,0.0,3,1.0
+1193,popularity,False,0.0,2,1.0
+1193,PPR,False,0.0,4,0.8
+1193,community-aware PPR,False,0.0,4,0.8
+1122,popularity,False,0.0,2,0.5
+1122,PPR,False,0.0,1,0.0
+1122,community-aware PPR,False,0.0,2,0.3
+1792,popularity,False,0.0,2,1.0
+1792,PPR,True,0.2,4,0.7
+1792,community-aware PPR,True,0.2,4,0.7
+1050,popularity,False,0.0,2,0.8
+1050,PPR,True,0.2222222222222222,3,0.2
+1050,community-aware PPR,True,0.1111111111111111,4,0.4
+421,popularity,True,0.2,4,0.7
+421,PPR,True,0.4,2,0.1
+421,community-aware PPR,True,0.3,3,0.3
+738,popularity,True,0.1,2,1.0
+738,PPR,True,0.2,3,0.5
+738,community-aware PPR,True,0.2,3,0.5
+1558,popularity,True,0.3,2,1.0
+1558,PPR,True,0.3,2,1.0
+1558,community-aware PPR,True,0.3,2,1.0
+907,popularity,False,0.0,2,0.8
+907,PPR,True,0.1,4,0.6
+907,community-aware PPR,True,0.1,4,0.6
+1319,popularity,True,0.1111111111111111,2,0.9
+1319,PPR,True,0.1111111111111111,3,0.8
+1319,community-aware PPR,True,0.1111111111111111,4,0.8
+566,popularity,False,0.0,2,1.0
+566,PPR,True,0.1,3,1.0
+566,community-aware PPR,True,0.1,3,1.0
+592,popularity,True,0.1,2,1.0
+592,PPR,True,0.1,2,1.0
+592,community-aware PPR,True,0.1,2,1.0
+1347,popularity,False,0.0,2,1.0
+1347,PPR,False,0.0,3,0.8
+1347,community-aware PPR,False,0.0,3,0.8
+288,popularity,False,0.0,2,0.9
+288,PPR,False,0.0,3,0.7
+288,community-aware PPR,False,0.0,3,0.7
+601,popularity,False,0.0,2,1.0
+601,PPR,True,0.4,4,1.0
+601,community-aware PPR,True,0.4,4,1.0
+409,popularity,True,0.2,2,0.2
+409,PPR,True,0.2,1,0.0
+409,community-aware PPR,True,0.2,3,0.3
+838,popularity,False,0.0,2,0.8
+838,PPR,True,0.2,4,0.4
+838,community-aware PPR,True,0.2,4,0.4
+921,popularity,False,0.0,2,1.0
+921,PPR,False,0.0,3,1.0
+921,community-aware PPR,False,0.0,3,1.0
+1535,popularity,True,0.1111111111111111,2,1.0
+1535,PPR,True,0.2222222222222222,2,1.0
+1535,community-aware PPR,True,0.1111111111111111,2,1.0
+1551,popularity,False,0.0,2,1.0
+1551,PPR,False,0.0,3,0.9
+1551,community-aware PPR,False,0.0,3,0.9
+1852,popularity,False,0.0,2,1.0
+1852,PPR,False,0.0,1,1.0
+1852,community-aware PPR,False,0.0,2,1.0
+812,popularity,False,0.0,2,1.0
+812,PPR,True,0.125,3,0.9
+812,community-aware PPR,True,0.125,3,0.9
+295,popularity,False,0.0,2,1.0
+295,PPR,True,0.3,3,0.6
+295,community-aware PPR,True,0.3,3,0.6
+2023,popularity,True,0.2222222222222222,2,0.5
+2023,PPR,True,0.1111111111111111,1,0.0
+2023,community-aware PPR,True,0.2222222222222222,2,0.3
+62,popularity,True,0.1111111111111111,2,1.0
+62,PPR,True,0.1111111111111111,3,0.9
+62,community-aware PPR,True,0.1111111111111111,3,0.9
+1823,popularity,True,0.2,2,1.0
+1823,PPR,True,0.3,2,1.0
+1823,community-aware PPR,True,0.3,2,1.0
+1081,popularity,False,0.0,2,0.8
+1081,PPR,True,0.2,2,0.7
+1081,community-aware PPR,True,0.2,4,0.7
+1267,popularity,True,0.1111111111111111,2,1.0
+1267,PPR,True,0.2222222222222222,4,0.9
+1267,community-aware PPR,True,0.2222222222222222,3,1.0
+1621,popularity,False,0.0,2,1.0
+1621,PPR,False,0.0,3,1.0
+1621,community-aware PPR,False,0.0,3,1.0
+684,popularity,True,0.3333333333333333,2,0.5
+684,PPR,True,0.5555555555555556,1,0.0
+684,community-aware PPR,True,0.4444444444444444,3,0.3
+487,popularity,True,0.1111111111111111,2,0.4
+487,PPR,True,0.2222222222222222,1,0.0
+487,community-aware PPR,True,0.1111111111111111,2,0.3
+821,popularity,False,0.0,2,0.9
+821,PPR,True,0.14285714285714285,2,0.6
+821,community-aware PPR,True,0.14285714285714285,4,0.7
+976,popularity,True,0.1111111111111111,2,1.0
+976,PPR,True,0.1111111111111111,3,0.9
+976,community-aware PPR,True,0.1111111111111111,3,1.0
+1458,popularity,False,0.0,2,0.5
+1458,PPR,True,0.1111111111111111,2,0.1
+1458,community-aware PPR,False,0.0,2,0.3
+1263,popularity,True,0.25,2,0.4
+1263,PPR,True,0.25,1,0.0
+1263,community-aware PPR,True,0.25,2,0.3
+1531,popularity,False,0.0,2,1.0
+1531,PPR,True,0.1111111111111111,3,0.3
+1531,community-aware PPR,True,0.1111111111111111,3,0.4
+1677,popularity,False,0.0,2,1.0
+1677,PPR,False,0.0,2,1.0
+1677,community-aware PPR,False,0.0,2,1.0
+1882,popularity,False,0.0,2,1.0
+1882,PPR,False,0.0,4,0.9
+1882,community-aware PPR,False,0.0,4,0.9
+579,popularity,False,0.0,2,1.0
+579,PPR,False,0.0,3,0.4
+579,community-aware PPR,False,0.0,3,0.4
+238,popularity,False,0.0,2,1.0
+238,PPR,False,0.0,4,1.0
+238,community-aware PPR,False,0.0,4,1.0
+847,popularity,False,0.0,2,0.4
+847,PPR,False,0.0,1,0.0
+847,community-aware PPR,False,0.0,2,0.3
+697,popularity,False,0.0,2,1.0
+697,PPR,False,0.0,3,1.0
+697,community-aware PPR,False,0.0,3,1.0
+773,popularity,False,0.0,2,0.8
+773,PPR,True,0.1,5,0.6
+773,community-aware PPR,True,0.1,5,0.6
+2036,popularity,False,0.0,2,1.0
+2036,PPR,False,0.0,5,1.0
+2036,community-aware PPR,False,0.0,5,1.0
+1966,popularity,True,0.1,2,1.0
+1966,PPR,True,0.2,3,0.9
+1966,community-aware PPR,True,0.2,3,0.9
+905,popularity,True,0.2,5,0.7
+905,PPR,True,0.2,2,0.2
+905,community-aware PPR,True,0.2,3,0.3
+816,popularity,True,0.2,2,0.5
+816,PPR,True,0.4,1,0.0
+816,community-aware PPR,True,0.3,3,0.3
+2033,popularity,True,0.3,3,0.4
+2033,PPR,True,0.4,2,0.2
+2033,community-aware PPR,True,0.4,3,0.3
+507,popularity,False,0.0,2,1.0
+507,PPR,False,0.0,4,1.0
+507,community-aware PPR,False,0.0,4,1.0
+480,popularity,False,0.0,2,1.0
+480,PPR,True,0.4,3,0.6
+480,community-aware PPR,True,0.4,3,0.6
+1103,popularity,False,0.0,2,1.0
+1103,PPR,False,0.0,2,1.0
+1103,community-aware PPR,False,0.0,2,1.0
+665,popularity,False,0.0,2,0.9
+665,PPR,False,0.0,3,0.6
+665,community-aware PPR,False,0.0,4,0.6
+1237,popularity,True,0.2222222222222222,2,0.8
+1237,PPR,True,0.2222222222222222,2,0.7
+1237,community-aware PPR,True,0.2222222222222222,4,0.8
+997,popularity,True,0.1,2,0.8
+997,PPR,True,0.1,2,0.5
+997,community-aware PPR,True,0.1,4,0.5
+99,popularity,True,0.1,2,0.8
+99,PPR,True,0.2,2,0.6
+99,community-aware PPR,True,0.2,4,0.7
+1234,popularity,True,0.1111111111111111,2,1.0
+1234,PPR,True,0.1111111111111111,2,1.0
+1234,community-aware PPR,True,0.1111111111111111,2,1.0
+1254,popularity,False,0.0,2,1.0
+1254,PPR,True,0.3333333333333333,4,1.0
+1254,community-aware PPR,True,0.3333333333333333,4,1.0
+1485,popularity,True,0.3,2,0.7
+1485,PPR,True,0.3,2,0.7
+1485,community-aware PPR,True,0.3,3,0.7
+2021,popularity,True,0.3333333333333333,2,0.5
+2021,PPR,True,0.5555555555555556,1,0.0
+2021,community-aware PPR,True,0.4444444444444444,3,0.3
+1028,popularity,True,0.125,2,1.0
+1028,PPR,True,0.125,2,1.0
+1028,community-aware PPR,True,0.125,2,1.0
+1181,popularity,False,0.0,2,1.0
+1181,PPR,False,0.0,3,0.8
+1181,community-aware PPR,False,0.0,3,0.8
+897,popularity,False,0.0,2,1.0
+897,PPR,True,0.14285714285714285,3,0.7
+897,community-aware PPR,True,0.14285714285714285,3,0.7
+353,popularity,True,0.3333333333333333,2,0.5
+353,PPR,True,0.4444444444444444,1,0.0
+353,community-aware PPR,True,0.4444444444444444,3,0.3
+2018,popularity,True,0.1,2,0.4
+2018,PPR,True,0.2,1,0.0
+2018,community-aware PPR,True,0.2,3,0.3
+841,popularity,False,0.0,2,1.0
+841,PPR,False,0.0,3,0.9
+841,community-aware PPR,False,0.0,2,1.0
+757,popularity,True,0.125,2,0.5
+757,PPR,True,0.25,1,0.0
+757,community-aware PPR,True,0.25,3,0.3
+120,popularity,True,0.2,2,0.4
+120,PPR,True,0.2,1,0.0
+120,community-aware PPR,True,0.2,2,0.3
+514,popularity,False,0.0,2,0.5
+514,PPR,True,0.2222222222222222,1,0.0
+514,community-aware PPR,True,0.2222222222222222,2,0.3
+551,popularity,True,0.1,2,1.0
+551,PPR,True,0.1,3,0.9
+551,community-aware PPR,True,0.1,3,0.9
+1276,popularity,False,0.0,2,1.0
+1276,PPR,False,0.0,4,1.0
+1276,community-aware PPR,False,0.0,4,1.0
+108,popularity,False,0.0,2,1.0
+108,PPR,False,0.0,2,0.3
+108,community-aware PPR,False,0.0,2,0.4
+1199,popularity,True,0.25,2,1.0
+1199,PPR,True,0.375,4,1.0
+1199,community-aware PPR,True,0.375,4,1.0
+75,popularity,True,0.4,2,0.5
+75,PPR,True,0.4,2,0.1
+75,community-aware PPR,True,0.4,2,0.3
+1511,popularity,True,0.3,3,0.6
+1511,PPR,True,0.4,2,0.1
+1511,community-aware PPR,True,0.5,3,0.3
+1052,popularity,False,0.0,2,0.8
+1052,PPR,False,0.0,3,0.6
+1052,community-aware PPR,False,0.0,3,0.6
+523,popularity,False,0.0,2,0.8
+523,PPR,False,0.0,3,0.2
+523,community-aware PPR,False,0.0,4,0.4
+1207,popularity,False,0.0,2,1.0
+1207,PPR,False,0.0,3,0.5
+1207,community-aware PPR,False,0.0,3,0.6
+526,popularity,False,0.0,2,1.0
+526,PPR,False,0.0,3,0.9
+526,community-aware PPR,False,0.0,3,0.9
+1023,popularity,True,0.1,4,0.7
+1023,PPR,True,0.1,2,0.1
+1023,community-aware PPR,True,0.1,2,0.3
+771,popularity,False,0.0,2,1.0
+771,PPR,False,0.0,1,1.0
+771,community-aware PPR,True,0.125,2,1.0
+268,popularity,False,0.0,2,1.0
+268,PPR,True,0.2222222222222222,3,0.2
+268,community-aware PPR,True,0.2222222222222222,2,0.3
+1532,popularity,True,0.2,2,0.4
+1532,PPR,True,0.4,1,0.0
+1532,community-aware PPR,True,0.3,2,0.3
+1834,popularity,True,0.1111111111111111,2,0.3
+1834,PPR,True,0.1111111111111111,1,0.0
+1834,community-aware PPR,True,0.1111111111111111,3,0.3
+1428,popularity,False,0.0,2,1.0
+1428,PPR,True,0.3,3,0.7
+1428,community-aware PPR,True,0.3,3,0.7
+1398,popularity,False,0.0,2,1.0
+1398,PPR,False,0.0,2,1.0
+1398,community-aware PPR,False,0.0,2,1.0
+333,popularity,True,0.2222222222222222,2,0.5
+333,PPR,True,0.3333333333333333,1,0.0
+333,community-aware PPR,True,0.3333333333333333,2,0.3
+731,popularity,False,0.0,2,1.0
+731,PPR,False,0.0,4,0.8
+731,community-aware PPR,False,0.0,4,0.8
+909,popularity,True,0.1,2,1.0
+909,PPR,True,0.1,2,1.0
+909,community-aware PPR,True,0.1,3,1.0
+920,popularity,False,0.0,2,1.0
+920,PPR,False,0.0,3,0.9
+920,community-aware PPR,False,0.0,3,0.9
+173,popularity,False,0.0,2,0.9
+173,PPR,True,0.1,3,0.6
+173,community-aware PPR,True,0.1,5,0.7
+495,popularity,True,0.2,2,0.4
+495,PPR,True,0.2,1,0.0
+495,community-aware PPR,True,0.2,3,0.3
+1976,popularity,False,0.0,2,1.0
+1976,PPR,False,0.0,4,1.0
+1976,community-aware PPR,False,0.0,4,1.0
+124,popularity,True,0.1,2,1.0
+124,PPR,True,0.1,2,1.0
+124,community-aware PPR,True,0.1,2,1.0
+960,popularity,False,0.0,2,1.0
+960,PPR,False,0.0,1,1.0
+960,community-aware PPR,False,0.0,2,1.0
+776,popularity,True,0.1111111111111111,2,1.0
+776,PPR,True,0.2222222222222222,4,0.9
+776,community-aware PPR,True,0.2222222222222222,4,0.9
+2070,popularity,False,0.0,2,1.0
+2070,PPR,False,0.0,2,1.0
+2070,community-aware PPR,False,0.0,3,1.0
+987,popularity,True,0.125,2,0.5
+987,PPR,True,0.25,1,0.0
+987,community-aware PPR,True,0.125,2,0.3
+733,popularity,True,0.375,2,1.0
+733,PPR,True,0.25,1,1.0
+733,community-aware PPR,True,0.375,2,1.0
+190,popularity,False,0.0,2,1.0
+190,PPR,False,0.0,1,1.0
+190,community-aware PPR,False,0.0,2,1.0
+305,popularity,True,0.4,2,0.4
+305,PPR,True,0.6,1,0.0
+305,community-aware PPR,True,0.6,3,0.3
+1793,popularity,False,0.0,2,1.0
+1793,PPR,False,0.0,2,1.0
+1793,community-aware PPR,False,0.0,2,1.0
+1495,popularity,False,0.0,2,0.8
+1495,PPR,False,0.0,3,0.2
+1495,community-aware PPR,False,0.0,3,0.3
+1012,popularity,False,0.0,2,1.0
+1012,PPR,False,0.0,2,1.0
+1012,community-aware PPR,False,0.0,2,1.0
+1965,popularity,True,0.1111111111111111,2,0.5
+1965,PPR,True,0.3333333333333333,1,0.0
+1965,community-aware PPR,True,0.2222222222222222,2,0.3
+1948,popularity,False,0.0,2,0.4
+1948,PPR,False,0.0,1,0.0
+1948,community-aware PPR,False,0.0,2,0.3
+1278,popularity,True,0.2,2,0.4
+1278,PPR,True,0.2,1,0.0
+1278,community-aware PPR,True,0.2,3,0.3
+1791,popularity,True,0.1,2,0.4
+1791,PPR,True,0.2,1,0.0
+1791,community-aware PPR,True,0.2,2,0.3
+1336,popularity,False,0.0,2,0.8
+1336,PPR,True,0.1,3,0.5
+1336,community-aware PPR,True,0.1,4,0.6
+802,popularity,False,0.0,2,1.0
+802,PPR,True,0.1111111111111111,3,0.8
+802,community-aware PPR,True,0.1111111111111111,3,0.8
+36,popularity,False,0.0,2,1.0
+36,PPR,True,0.1,3,0.8
+36,community-aware PPR,True,0.1,3,0.8
+1952,popularity,False,0.0,2,0.8
+1952,PPR,True,0.1111111111111111,2,0.6
+1952,community-aware PPR,False,0.0,4,0.7
+1543,popularity,False,0.0,2,1.0
+1543,PPR,False,0.0,3,0.7
+1543,community-aware PPR,False,0.0,3,0.7
+428,popularity,False,0.0,2,1.0
+428,PPR,True,0.14285714285714285,3,0.9
+428,community-aware PPR,True,0.14285714285714285,3,0.9
+569,popularity,True,0.3,3,0.6
+569,PPR,True,0.4,2,0.2
+569,community-aware PPR,True,0.4,2,0.3
+568,popularity,False,0.0,2,0.6
+568,PPR,False,0.0,2,0.5
+568,community-aware PPR,False,0.0,3,0.6
+1403,popularity,True,0.2,2,1.0
+1403,PPR,True,0.2,2,1.0
+1403,community-aware PPR,True,0.2,2,1.0
+214,popularity,True,0.1,5,0.8
+214,PPR,True,0.2,2,0.2
+214,community-aware PPR,True,0.2,3,0.3
+59,popularity,False,0.0,2,1.0
+59,PPR,False,0.0,4,0.9
+59,community-aware PPR,False,0.0,4,0.9
+348,popularity,True,0.125,2,0.4
+348,PPR,True,0.125,1,0.0
+348,community-aware PPR,True,0.125,3,0.3
+1149,popularity,True,0.1111111111111111,2,1.0
+1149,PPR,True,0.2222222222222222,4,0.9
+1149,community-aware PPR,True,0.2222222222222222,4,0.9
+274,popularity,False,0.0,2,1.0
+274,PPR,False,0.0,1,1.0
+274,community-aware PPR,False,0.0,2,1.0
+1472,popularity,True,0.14285714285714285,2,1.0
+1472,PPR,True,0.14285714285714285,2,1.0
+1472,community-aware PPR,True,0.14285714285714285,2,1.0
+101,popularity,True,0.1,2,1.0
+101,PPR,True,0.1,2,1.0
+101,community-aware PPR,True,0.1,2,1.0
+823,popularity,False,0.0,2,1.0
+823,PPR,False,0.0,3,0.9
+823,community-aware PPR,False,0.0,3,0.9
+1554,popularity,False,0.0,2,1.0
+1554,PPR,True,0.1,4,0.8
+1554,community-aware PPR,True,0.1,4,0.8
+792,popularity,False,0.0,2,1.0
+792,PPR,False,0.0,2,1.0
+792,community-aware PPR,False,0.0,2,1.0
+1936,popularity,False,0.0,2,0.8
+1936,PPR,False,0.0,2,0.8
+1936,community-aware PPR,False,0.0,4,0.8
+500,popularity,False,0.0,2,1.0
+500,PPR,True,0.2,2,0.4
+500,community-aware PPR,True,0.2,2,0.4
+1669,popularity,False,0.0,2,1.0
+1669,PPR,True,0.125,3,1.0
+1669,community-aware PPR,True,0.125,3,1.0
+322,popularity,True,0.1111111111111111,2,0.5
+322,PPR,True,0.2222222222222222,1,0.0
+322,community-aware PPR,True,0.1111111111111111,3,0.3
+1926,popularity,False,0.0,2,0.8
+1926,PPR,False,0.0,3,0.5
+1926,community-aware PPR,False,0.0,4,0.6
+1922,popularity,True,0.1,2,0.8
+1922,PPR,True,0.1,4,0.5
+1922,community-aware PPR,True,0.1,4,0.5
+1997,popularity,False,0.0,2,0.8
+1997,PPR,True,0.2,3,0.4
+1997,community-aware PPR,True,0.1,4,0.5
+1581,popularity,False,0.0,2,0.8
+1581,PPR,False,0.0,2,0.4
+1581,community-aware PPR,False,0.0,4,0.5
+614,popularity,False,0.0,2,1.0
+614,PPR,False,0.0,3,0.9
+614,community-aware PPR,False,0.0,3,0.9
+71,popularity,False,0.0,2,1.0
+71,PPR,True,0.125,2,0.3
+71,community-aware PPR,True,0.125,3,0.4
+745,popularity,False,0.0,2,1.0
+745,PPR,False,0.0,1,1.0
+745,community-aware PPR,False,0.0,1,1.0
+1064,popularity,False,0.0,2,1.0
+1064,PPR,True,0.3333333333333333,5,0.8
+1064,community-aware PPR,True,0.3333333333333333,5,0.8
+370,popularity,True,0.1111111111111111,2,0.8
+370,PPR,True,0.2222222222222222,2,0.7
+370,community-aware PPR,True,0.2222222222222222,4,0.7
+618,popularity,False,0.0,2,1.0
+618,PPR,False,0.0,3,1.0
+618,community-aware PPR,False,0.0,3,1.0
+1826,popularity,True,0.2222222222222222,2,0.6
+1826,PPR,True,0.2222222222222222,2,0.6
+1826,community-aware PPR,True,0.2222222222222222,3,0.8
+1924,popularity,False,0.0,2,1.0
+1924,PPR,False,0.0,3,1.0
+1924,community-aware PPR,False,0.0,3,1.0
+1447,popularity,True,0.1111111111111111,2,0.5
+1447,PPR,True,0.3333333333333333,1,0.0
+1447,community-aware PPR,True,0.2222222222222222,2,0.3
+1109,popularity,True,0.2,2,0.5
+1109,PPR,True,0.4,1,0.0
+1109,community-aware PPR,True,0.3,3,0.3
+174,popularity,False,0.0,2,1.0
+174,PPR,True,0.1111111111111111,2,1.0
+174,community-aware PPR,True,0.1111111111111111,2,1.0
+1286,popularity,False,0.0,2,0.8
+1286,PPR,False,0.0,3,0.3
+1286,community-aware PPR,False,0.0,4,0.4
+1158,popularity,False,0.0,2,1.0
+1158,PPR,False,0.0,4,0.9
+1158,community-aware PPR,False,0.0,4,0.9
+2057,popularity,False,0.0,2,1.0
+2057,PPR,False,0.0,2,1.0
+2057,community-aware PPR,False,0.0,2,1.0
+321,popularity,False,0.0,2,1.0
+321,PPR,True,0.1,4,0.6
+321,community-aware PPR,True,0.1,4,0.6
+1324,popularity,False,0.0,2,1.0
+1324,PPR,True,0.125,2,0.4
+1324,community-aware PPR,True,0.125,2,0.4
+1220,popularity,False,0.0,2,0.7
+1220,PPR,False,0.0,2,0.7
+1220,community-aware PPR,True,0.1,3,0.7
+442,popularity,False,0.0,2,1.0
+442,PPR,False,0.0,3,0.8
+442,community-aware PPR,False,0.0,3,0.8
+1463,popularity,False,0.0,2,1.0
+1463,PPR,False,0.0,4,1.0
+1463,community-aware PPR,False,0.0,4,1.0
+1281,popularity,False,0.0,2,1.0
+1281,PPR,False,0.0,4,0.9
+1281,community-aware PPR,False,0.0,4,0.9
+622,popularity,False,0.0,2,0.8
+622,PPR,True,0.1111111111111111,3,0.4
+622,community-aware PPR,True,0.1111111111111111,4,0.4
+1380,popularity,False,0.0,2,1.0
+1380,PPR,False,0.0,3,0.9
+1380,community-aware PPR,False,0.0,3,0.9
+1372,popularity,True,0.1,2,0.8
+1372,PPR,True,0.3,2,0.6
+1372,community-aware PPR,True,0.4,5,0.6
+1737,popularity,False,0.0,2,1.0
+1737,PPR,False,0.0,4,1.0
+1737,community-aware PPR,False,0.0,4,1.0
+1275,popularity,True,0.1,2,0.8
+1275,PPR,True,0.2,3,0.6
+1275,community-aware PPR,True,0.2,3,0.6
+1516,popularity,True,0.1,2,0.4
+1516,PPR,True,0.2,2,0.2
+1516,community-aware PPR,True,0.2,2,0.3
+1729,popularity,False,0.0,2,0.8
+1729,PPR,True,0.14285714285714285,3,0.2
+1729,community-aware PPR,True,0.14285714285714285,4,0.4
+1071,popularity,True,0.1,5,0.8
+1071,PPR,True,0.3,3,0.2
+1071,community-aware PPR,True,0.3,3,0.3
+713,popularity,True,0.2,2,0.5
+713,PPR,True,0.3,1,0.0
+713,community-aware PPR,True,0.3,3,0.3
+719,popularity,False,0.0,2,1.0
+719,PPR,True,0.1111111111111111,3,0.4
+719,community-aware PPR,True,0.1111111111111111,3,0.5
+1955,popularity,False,0.0,2,0.9
+1955,PPR,False,0.0,2,0.5
+1955,community-aware PPR,False,0.0,4,0.6
+1433,popularity,True,0.14285714285714285,2,1.0
+1433,PPR,True,0.14285714285714285,2,1.0
+1433,community-aware PPR,True,0.14285714285714285,2,1.0
+1650,popularity,False,0.0,2,0.7
+1650,PPR,False,0.0,4,0.3
+1650,community-aware PPR,False,0.0,5,0.4
+899,popularity,False,0.0,2,1.0
+899,PPR,False,0.0,2,1.0
+899,community-aware PPR,False,0.0,2,1.0
+1139,popularity,True,0.2857142857142857,2,0.4
+1139,PPR,True,0.2857142857142857,1,0.0
+1139,community-aware PPR,True,0.2857142857142857,2,0.3
+1784,popularity,True,0.1,2,1.0
+1784,PPR,True,0.1,2,1.0
+1784,community-aware PPR,True,0.1,2,1.0
+285,popularity,False,0.0,2,1.0
+285,PPR,True,0.14285714285714285,3,1.0
+285,community-aware PPR,True,0.14285714285714285,3,1.0
+366,popularity,True,0.1,2,0.8
+366,PPR,True,0.1,3,0.3
+366,community-aware PPR,True,0.1,4,0.4
+1113,popularity,False,0.0,2,0.4
+1113,PPR,False,0.0,1,0.0
+1113,community-aware PPR,False,0.0,3,0.3
+147,popularity,True,0.1111111111111111,2,0.5
+147,PPR,True,0.2222222222222222,2,0.1
+147,community-aware PPR,True,0.2222222222222222,2,0.3
+41,popularity,False,0.0,2,1.0
+41,PPR,True,0.42857142857142855,2,0.1
+41,community-aware PPR,True,0.42857142857142855,2,0.3
+1840,popularity,True,0.14285714285714285,2,1.0
+1840,PPR,True,0.14285714285714285,2,1.0
+1840,community-aware PPR,True,0.14285714285714285,2,1.0
+1176,popularity,False,0.0,2,1.0
+1176,PPR,False,0.0,2,1.0
+1176,community-aware PPR,False,0.0,2,1.0
+219,popularity,False,0.0,2,1.0
+219,PPR,False,0.0,2,1.0
+219,community-aware PPR,False,0.0,2,1.0
+1708,popularity,True,0.1,2,0.8
+1708,PPR,True,0.1,3,0.5
+1708,community-aware PPR,True,0.1,4,0.6
+912,popularity,False,0.0,2,1.0
+912,PPR,True,0.1,3,0.7
+912,community-aware PPR,True,0.1,3,0.7
+1947,popularity,False,0.0,2,0.7
+1947,PPR,True,0.1,3,0.6
+1947,community-aware PPR,True,0.1,5,0.6
+587,popularity,False,0.0,2,1.0
+587,PPR,True,0.125,3,1.0
+587,community-aware PPR,True,0.125,3,1.0
+1114,popularity,True,0.1,1,1.0
+1114,PPR,True,0.1,1,1.0
+1114,community-aware PPR,True,0.3,2,1.0
+789,popularity,False,0.0,2,1.0
+789,PPR,False,0.0,1,1.0
+789,community-aware PPR,False,0.0,2,1.0
+1700,popularity,False,0.0,2,1.0
+1700,PPR,True,0.25,4,1.0
+1700,community-aware PPR,True,0.25,4,1.0
+822,popularity,False,0.0,2,1.0
+822,PPR,False,0.0,3,1.0
+822,community-aware PPR,False,0.0,3,1.0
+1536,popularity,True,0.1,2,1.0
+1536,PPR,True,0.2,3,0.6
+1536,community-aware PPR,True,0.2,3,0.6
+133,popularity,True,0.42857142857142855,3,0.6
+133,PPR,True,0.42857142857142855,1,0.0
+133,community-aware PPR,True,0.42857142857142855,3,0.3
+319,popularity,False,0.0,2,1.0
+319,PPR,False,0.0,4,0.8
+319,community-aware PPR,False,0.0,4,0.8
+809,popularity,True,0.4,2,0.4
+809,PPR,True,0.5,1,0.0
+809,community-aware PPR,True,0.4,2,0.3
+1452,popularity,False,0.0,2,0.3
+1452,PPR,False,0.0,1,0.0
+1452,community-aware PPR,False,0.0,3,0.3
+619,popularity,True,0.2,2,0.8
+619,PPR,True,0.3,2,0.4
+619,community-aware PPR,True,0.3,3,0.5
+1420,popularity,True,0.1,2,0.8
+1420,PPR,True,0.1,3,0.6
+1420,community-aware PPR,True,0.1,4,0.6
+946,popularity,True,0.1,2,1.0
+946,PPR,True,0.2,3,0.9
+946,community-aware PPR,True,0.2,3,0.9
+1710,popularity,False,0.0,2,1.0
+1710,PPR,False,0.0,4,1.0
+1710,community-aware PPR,False,0.0,4,1.0
+186,popularity,True,0.3,2,0.4
+186,PPR,True,0.4,1,0.0
+186,community-aware PPR,True,0.3,3,0.3
+1827,popularity,False,0.0,2,1.0
+1827,PPR,True,0.14285714285714285,3,0.5
+1827,community-aware PPR,True,0.14285714285714285,3,0.5
+210,popularity,True,0.1,2,1.0
+210,PPR,True,0.1,2,1.0
+210,community-aware PPR,True,0.1,2,1.0
+244,popularity,True,0.2,2,0.3
+244,PPR,True,0.2,2,0.2
+244,community-aware PPR,True,0.2,2,0.3
+1366,popularity,False,0.0,2,1.0
+1366,PPR,False,0.0,2,1.0
+1366,community-aware PPR,False,0.0,2,1.0
+1322,popularity,False,0.0,2,1.0
+1322,PPR,False,0.0,4,0.7
+1322,community-aware PPR,False,0.0,4,0.7
+631,popularity,True,0.2,2,0.8
+631,PPR,True,0.2,4,0.8
+631,community-aware PPR,True,0.2,4,0.8
